@@ -1,1 +1,1 @@
-# Ptero
+### Pterodactyl panel Easy Installation
